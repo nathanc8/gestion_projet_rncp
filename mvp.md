@@ -8,7 +8,7 @@ Reprendre les critères du RNCP et les différents modules à valider, et faire 
 - Page de connexion
 - Page de déconnexion
 - Profil utilisateurice
-- Banque de plantes utilisateurice
+- Jardin digital utilisateurice
 - Encyclopédie (back ?)
 
 ## Next steps :
@@ -28,7 +28,7 @@ Reprendre les critères du RNCP et les différents modules à valider, et faire 
     - Ajout et modification des plantes présentes en BDD
   - ~~Page de profil : modification mdp / pseudo / autres infos (mais pas le mail)~~
 
-### Banque de plantes
+### Jardin digital
   - ~~Ajout / suppression de plantes~~
   - ~~Possibilité d'indiquer quand est la dernière fois qu'elle a été arrosée~~
   - ~~Possibilité d'indiquer la période de rempotage~~
